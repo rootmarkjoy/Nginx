@@ -13,5 +13,3 @@ URL: https://docs.nginx.com/
 URL: https://nginx.org/en/linux_packages.html#instructions
 
 ![tcp-load-balancing-nginx-plus](https://user-images.githubusercontent.com/45856526/192649521-5981509c-0d75-411b-b660-e5af3a8cb655.png)
-
-![NGINX-icon-on-globe_twitter](https://user-images.githubusercontent.com/45856526/192649844-568a2da5-4481-4128-968a-105a87b30568.png)
